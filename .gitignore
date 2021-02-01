@@ -1,0 +1,10 @@
+
+.idea/
+.vscode/
+*.py[cod]
+
+weights/
+results/
+widerface_evaluate/widerface_txt/
+
+
